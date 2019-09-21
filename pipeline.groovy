@@ -1,6 +1,6 @@
 pipelineJob('Pipeline Basic Job') {
 
-  def repo = 'https://github.com/px_male/devops_sample_nodejs.git'
+  def repo = 'https://github.com/px-male/devops_sample_nodejs.git'
 
   description("Pipeline for $repo")
 
